@@ -57,7 +57,7 @@ Ce projet est un site e-commerce basique développé avec **PHP**, **CSS** et **
      ```
 
 5. **Lancer l'application** :
-   - Ouvrez le projet dans le navigateur via `http://localhost/mon-projet-ecommerce`.
+   - Ouvrez le projet dans le navigateur via `http://burgercode.infinityfreeapp.com/?i=2#`.
 
 ## 🎯 Objectifs du projet
 
